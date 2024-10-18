@@ -52,7 +52,7 @@ using namespace std;
 enum Color{RED, GREEN, BLUE};
 
 int main() {
-    color myColor;
+    Color myColor;
     myColor = GREEN;
 
     if(myColor ==GREEN) {
